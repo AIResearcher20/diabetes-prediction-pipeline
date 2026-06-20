@@ -141,7 +141,7 @@ This project ensures full reproducibility through:
 
 ### **Local Installation**
 ```bash
-git clone https://github.com/vaniakarimi/diabetes-prediction.git
+git clone https://github.com/AIResearcher20/diabetes-prediction.git
 cd diabetes-prediction
 pip install -r requirements.txt
 python main.py
