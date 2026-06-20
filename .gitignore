@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pkl
+*.log
+
+# Data
+data/*.csv
+!data/pima_diabetes.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Colab
+*.ipynb_checkpoints/
